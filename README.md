@@ -5,6 +5,7 @@ This project demonstrates the interfacing of an HC-SR04 ultrasonic distance sens
 The microcontroller sends a 10 microsecond trigger pulse to the sensor, waits for the echo signal, and measures the duration using Timer 0. The measured time is converted to distance in centimeters and shown on the LCD. The project is programmed in embedded C and compiled using Keil µVision IDE.
 
 ---
+Watch the project demonstration video here: [YouTube Link](https://youtu.be/ZQ7bDaOCcoU)
 
 ## Features
 
