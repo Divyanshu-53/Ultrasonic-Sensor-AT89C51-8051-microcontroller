@@ -331,26 +331,6 @@ TMOD = 0x09;  // Timer 0: 8-bit auto-reload
 | 🛠️ Keil µVision | [Official Guide](https://www.keil.com/pack/doc/uv4/uv4_guidebook.pdf) | IDE documentation |
 | 🌊 Speed of Sound | Wikipedia | 343 m/s @ 20°C |
 
----
-
-## 👤 Author
-
-<div align="center">
-
-### **Divyanshu Kalal** 🎓
-
-| Field | Details |
-|-------|---------|
-| 🏫 Institution | Nirma University |
-| 📚 Department | Electronics & Communication Engineering |
-| 📋 Roll Number | 23BEC053 |
-| 🎯 Year | 2023-2027 Batch |
-
-**Portfolio:** [GitHub](https://github.com/Divyanshu-53) | **Email:** divyanshukalal18@gmail.com
-
-</div>
-
----
 
 ## ⚖️ License
 
