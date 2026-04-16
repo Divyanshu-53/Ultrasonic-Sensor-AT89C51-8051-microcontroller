@@ -1,0 +1,72 @@
+# Keil µVision Project Files
+*.uvproj
+*.uvprojx
+*.bak
+*.opt
+*.plg
+*.dsk
+*.dsk~
+*.vpw
+*.vpw~
+*.hex
+*.axf
+*.elf
+*.o
+*.obj
+*.map
+*.lst
+*.b
+*.lnp
+*.crf
+*.c251
+*.out
+
+# Build artifacts
+build/
+Debug/
+Release/
+*.lib
+*.a
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Backup files
+*.bak
+*.bk1
+*.bk2
+*backup*
+
+# Temporary files
+*.temp
+*.tmp
+*.~*
+
+# Compiled simulation files
+*.ivp
+*.ivps
+
+# Proteus simulation files (if used)
+*.pdsprj.bak
+*.sqlite
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Node modules (if any scripts used)
+node_modules/
+npm-debug.log
