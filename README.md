@@ -169,11 +169,6 @@ Ultrasonic-Sensor-AT89C51-8051-Microcontroller/
 ├── 💻 ultramci.c                   ← Main source code (Embedded C)
 ├── 📐 Schematic.jpg                ← Circuit diagram
 ├── 📊 Project_report.pdf           ← Detailed documentation
-│
-└── 📂 (Optional additions)
-    ├── BOM.md                      ← Bill of Materials
-    ├── INSTALLATION.md             ← Setup guide
-    └── images/                     ← Hardware photos
 ```
 
 ---
